@@ -1,0 +1,17 @@
+1.start
+2.declare prev,current,next,s,a in integer
+3.give output "enter how many terms should be in fibbonacci series"
+4.input s
+5.assign prev=0
+6.assign current=1
+7.give the comment "a" is the counter variable
+8.assign a=0
+9.give output of prev
+10.using do statement it is true if
+11.give output current
+12.assign next=prev+current
+13.assign prev=current
+14.assign current=next
+15.assign a=a+1
+16.if a!=0 then it is false
+

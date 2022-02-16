@@ -1,0 +1,9 @@
+1.start
+2.declare dividend,divisor,remainder in real
+3.declare quotient in integer
+4.asssign divisor=3
+5.input dividend
+6.assign quotient=dividend/divisor
+7.assign remainder=(dividend/divisor)-qoutient
+8.if remainder==0 then it is true
+9.if remainder!=0 then it is false
